@@ -1,0 +1,22 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rust2323/hexlet-js.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Rustem Ishmakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rust2323/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Rust2323/hexlet-js#readme"
+}
