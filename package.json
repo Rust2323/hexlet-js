@@ -22,5 +22,9 @@
   "homepage": "https://github.com/Rust2323/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "prettier": "^2.8.0"
   }
 }
